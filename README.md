@@ -1,5 +1,5 @@
 # Bolo da Lara
-Projeto final da disciplina de Introdução a Algoritmos/Programação, desenvolvido com Python e Pygame.
+Projeto final da disciplina de Introdução a Algoritmos, desenvolvido com Python e Pygame.
 
 ## Integrantes do grupo
 - Gabriela Gomes Mattoso
